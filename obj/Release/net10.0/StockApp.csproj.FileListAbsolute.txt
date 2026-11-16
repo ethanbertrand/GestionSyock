@@ -1,0 +1,15 @@
+D:\users\bertrand2\Desktop\TPCICD\StockApp\bin\Release\net10.0\StockApp.exe
+D:\users\bertrand2\Desktop\TPCICD\StockApp\bin\Release\net10.0\StockApp.deps.json
+D:\users\bertrand2\Desktop\TPCICD\StockApp\bin\Release\net10.0\StockApp.runtimeconfig.json
+D:\users\bertrand2\Desktop\TPCICD\StockApp\bin\Release\net10.0\StockApp.dll
+D:\users\bertrand2\Desktop\TPCICD\StockApp\bin\Release\net10.0\StockApp.pdb
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\StockApp.AssemblyInfoInputs.cache
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\StockApp.AssemblyInfo.cs
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\StockApp.csproj.CoreCompileInputs.cache
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\StockApp.sourcelink.json
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\StockApp.dll
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\refint\StockApp.dll
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\StockApp.pdb
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\StockApp.genruntimeconfig.cache
+D:\users\bertrand2\Desktop\TPCICD\StockApp\obj\Release\net10.0\ref\StockApp.dll

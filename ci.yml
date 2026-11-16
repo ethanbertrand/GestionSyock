@@ -1,0 +1,22 @@
+name: CI
+on:
+ push:
+ branches: [main]
+ pull_request:
+ branches: [main]
+jobs:
+ build-and-test:
+ runs-on: ubuntu-latest
+ steps:
+ - name: Récupérer le dépôt
+ uses: actions/checkout@v4
+ - name: Installer .NET 8
+ uses: actions/setup-dotnet@v4
+ with:
+ dotnet-version: 8.0.x
+ - name: Restaurer les dépendances
+ run: dotnet restore StockApp.sln (à modifier)
+ - name: Compiler
+ run: dotnet build StockApp.sln --no-restore --configuration Release (à modifier)
+ - name: Exécuter les tests
+ run: dotnet test StockApp.sln --no-build --configuration Release (à modifier)
